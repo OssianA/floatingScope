@@ -1,7 +1,7 @@
 var postsData = [
 	{
 		title: 'Introducing Floatingscope',
-		url: 'http://sachagrief.com/Introducing-telescope'
+		url: 'http://sachagreif.com/Introducing-telescope'
 	},
 	{
 		title: 'Meteor',
